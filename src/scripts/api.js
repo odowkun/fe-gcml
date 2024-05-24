@@ -1,5 +1,5 @@
 // TODO: Silakan sesuaikan BASE URL dari endpoint Anda
-const BASE_URL = "https://server-web-lauo2jef2a-et.a.run.app";
+const BASE_URL = "https://web-services-lmedmejjwq-et.a.run.app";
 
 const ENDPOINT = {
   predict: `${BASE_URL}/predict`,
