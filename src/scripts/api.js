@@ -1,5 +1,5 @@
 // TODO: Silakan sesuaikan BASE URL dari endpoint Anda
-const BASE_URL = "https://submission-mlgc-75e5binhma-uc.a.run.app";
+const BASE_URL = "https://server-api-75e5binhma-et.a.run.app";
 
 const ENDPOINT = {
   predict: `${BASE_URL}/predict`,
